@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteRompen
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning C#, .NET Core, Xamarin, SQL and Python
+- 🌱 I’m currently learning C#, SQL and Python
 
 
 <!---
